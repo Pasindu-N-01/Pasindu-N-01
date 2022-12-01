@@ -4,7 +4,7 @@
 <h3 align="center">FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pasindu-N01&label=Profile%20views&color=0e75b6&style=flat" alt="Pasindu-N01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pasindu-N-01&label=Profile%20views&color=0e75b6&style=flat" alt="Pasindu-N-01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Pasindu" target="blank"><img src="https://img.shields.io/twitter/follow/Pasindu?logo=twitter&style=for-the-badge" alt="Pasindu" /></a> </p>
 
@@ -32,13 +32,13 @@
 </br>
 <p align="center">
     <a href="https://github.com/Pasindu-N-01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pasindu Nishshanka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-N01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pasindu Nishshanka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-N-01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   </br>
 <h2>📊 My Github Stats</h2>
-<img src = "https://github-readme-stats.vercel.app/api?username=Pasindu-N01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+<img src = "https://github-readme-stats.vercel.app/api?username=Pasindu-N-01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <a href="#"><img width="25%" height="25%"/></a>
 <img align="right" alt="Coding" width="270" src="https://octodex.github.com/images/jetpacktocat.png">
-<a href="https://github.com/Pasindu-N01/github-readme-stats"><img alt="Pasindu Nishshanka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-N01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><br/>
-<a href="https://github.com/Pasindu-N01/github-readme-activity-graph"><img alt="Pasindu Nishshanka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pasindu-N01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Pasindu-N-01/github-readme-stats"><img alt="Pasindu Nishshanka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-N-01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a><br/>
+<a href="https://github.com/Pasindu-N-01/github-readme-activity-graph"><img alt="Pasindu Nishshanka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pasindu-N-01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
